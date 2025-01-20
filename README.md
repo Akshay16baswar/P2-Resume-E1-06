@@ -50,11 +50,11 @@
 <body>
 
     <header>
-        <img src="https://assets.onecompiler.app/42sfx49mx/42sfvvzvz/amaampfp.jpeg" alt="Profile picture of Sujal Sonune" class="profile-img">
+        <img src="1cca4bc2-cfee-48cf-a160-81535c928cba" alt="Profile picture of Akshay Baswar" class="profile-img">
         <div class="header-content">
-            <h1><u>Sujal Sonune</u></h1>
-            <p>Address: House No. 01 Sai Nagar, Amravati</p>
-            <p>Email: <a href="mailto:sujalsonune111@gmail.com">sujalsonune111@gmail.com</a> | Phone: 9322984523</p>
+            <h1><u>Akshay Baswar</u></h1>
+            <p>Address: GAT NO 1323 AKURDI, PUNE</p>
+            <p>Email: <a href="mailto:baswarakshay@gmail.com">baswarakshay@gmail.com</a> | Phone: 808076634*</p>
         </div>
     </header>
 
@@ -78,13 +78,13 @@
                 </tr>
                 <tr>
                     <td>HSC</td>
-                    <td>Takhatmal English High School</td>
+                    <td>SVVNS English High School</td>
                     <td>2024</td>
                     <td>A</td>
                 </tr>
                 <tr>
                     <td>SSC</td>
-                    <td>Takhatmal English High School</td>
+                    <td>SVVNS English High School</td>
                     <td>2022</td>
                     <td>A+</td>
                 </tr>
@@ -113,7 +113,7 @@
     <div class="section">
         <h2>Personal Information</h2>
         <ul>
-            <li>Date of Birth: April 28, 2005</li>
+            <li>Date of Birth: October 16, 2006</li>
             <li>Languages Known: English,  Hindi, Marathi</li>
             <li>Hobbies: Coding, Editing</li>
         </ul>
